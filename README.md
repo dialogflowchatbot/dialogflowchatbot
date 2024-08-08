@@ -1,6 +1,6 @@
 ## Dialog flow chat bot with intuitive node-based editor.
 
-<img src="https://img.shields.io/badge/Latest_version-v1.12.0-blue" />
+<img src="https://img.shields.io/badge/Latest_version-v1.14.0-blue" />
 
 * 💾 If you're looking for **binary releases**, please check [here](https://github.com/dialogflowchatbot/dialogflow/releases)
 * 🎈 The **back end** of this application is [here](https://github.com/dialogflowchatbot/dialogflow-backend)
